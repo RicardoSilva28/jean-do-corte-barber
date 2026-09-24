@@ -130,40 +130,16 @@ span.logo{
     color: rgb(252, 249, 249);
    
 }
-:hover span.logo{
-    color: black;
+
       
-}
- nav-button{
-    color: white;
-}
+
 
 
 
    
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .section {
     padding: 50px 0;
-    
-    
-    
-    
+      
 }
 
 
@@ -2078,7 +2054,7 @@ p {
     align-items: center;
     gap: 10px;
 
-    padding: 6 16px;
+    padding: 9px 26px;
 
     background: rgb(48, 179, 48);
     color: #fff;
